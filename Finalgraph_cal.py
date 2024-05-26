@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import networkx as nx
 import pandas as pd
-filtered_df = pd.read_csv('source_tgt_val.csv')
+filtered_df = pd.read_csv('source_tgt_val_modified.csv')
 G = nx.from_pandas_edgelist(filtered_df, 'Source', 'Target', ['Weight'], create_using=nx.DiGraph())
 plt.figure(figsize=(10, 8))
 pos = nx.kamada_kawai_layout(G)
