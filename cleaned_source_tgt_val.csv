@@ -1,0 +1,820 @@
+Country1,Country2,Weight
+Vietnam,Estonia,152
+Estonia,Finland,58
+Palestinian territories,Denmark,10
+Ukraine,Uzbekistan,115
+India,France,11
+Slovakia,Slovakia,28
+Zambia,Switzerland,1807
+Slovakia,Singapore,16
+Finland,Ukraine,25
+Ukraine,Palestinian territories,13
+Vietnam,Spain,34
+Vatican City,Georgia,13
+Slovakia,Denmark,9
+Denmark,Croatia,6
+"Korea, North",Trinidad and Tobago,6
+Czech Republic,India,5
+India,South Africa,12
+Zambia,Congo (DRC),6
+Congo (DRC),Vietnam,23
+Vietnam,Vietnam,260
+Zambia,France,149
+France,Estonia,156
+Vietnam,Vatican City,374
+Vatican City,Yemen,236
+Switzerland,Zambia,2024
+Estonia,Vietnam,324
+Zambia,Estonia,1160
+"Korea, North",Indonesia,26
+Vietnam,Zambia,681
+Estonia,France,76
+Zambia,Vietnam,552
+Vietnam,France,43
+France,Uzbekistan,12
+Uzbekistan,Vietnam,7
+Switzerland,Uzbekistan,349
+Zambia,Uganda,43
+Uganda,Vatican City,13
+Vietnam,Switzerland,688
+Vietnam,Zambia,292
+Zambia,Singapore,46
+Vietnam,Uzbekistan,292
+Uzbekistan,Vietnam,187
+Vietnam,Singapore,415
+Singapore,Serbia and Montenegro,160
+Serbia and Montenegro,Estonia,215
+Zambia,Vietnam,1163
+Slovakia,Vietnam,47
+Vietnam,Serbia and Montenegro,140
+Serbia and Montenegro,Vietnam,39
+"Korea, North",Estonia,58
+Estonia,France,187
+Denmark,Vietnam,31
+Vietnam,Ukraine,109
+Zambia,Indonesia,229
+Indonesia,Vietnam,219
+Vietnam,Vietnam,329
+Vatican City,Estonia,247
+Estonia,Zambia,562
+Zambia,Uzbekistan,282
+Switzerland,Estonia,621
+Serbia and Montenegro,Vietnam,152
+Vietnam,Indonesia,217
+Indonesia,Zambia,174
+Zambia,Finland,109
+Finland,Singapore,11
+Singapore,Vietnam,6
+Switzerland,Slovakia,55
+Ukraine,Finland,35
+Estonia,India,15
+Vietnam,Georgia,19
+Georgia,"Korea, North",25
+"Korea, North",Ukraine,38
+Uzbekistan,Zambia,137
+Switzerland,Ukraine,331
+Ukraine,Vietnam,88
+Vietnam,Estonia,529
+Estonia,Yemen,73
+Vatican City,Vietnam,372
+Estonia,Vietnam,129
+Vatican City,Uzbekistan,223
+Uzbekistan,Serbia and Montenegro,41
+Vietnam,"Korea, North",107
+"Korea, North",Singapore,10
+Singapore,Vietnam,93
+Singapore,Uzbekistan,68
+Ukraine,Zambia,44
+Uzbekistan,Vatican City,132
+Estonia,Serbia and Montenegro,296
+Indonesia,Uzbekistan,61
+Finland,Estonia,68
+Estonia,Uzbekistan,159
+Finland,Switzerland,81
+Serbia and Montenegro,Uzbekistan,38
+India,Estonia,13
+Estonia,Ukraine,326
+Estonia,Switzerland,736
+Switzerland,Serbia and Montenegro,57
+Serbia and Montenegro,Yemen,19
+Yemen,Ukraine,42
+Switzerland,Vietnam,1081
+Uzbekistan,Singapore,62
+Yemen,Vietnam,43
+Vietnam,"Korea, North",44
+"Korea, North",Vietnam,60
+Vietnam,Slovakia,32
+Slovakia,Singapore,8
+Ukraine,Serbia and Montenegro,88
+Switzerland,Vatican City,482
+Vatican City,Zambia,240
+Zambia,France,50
+Vietnam,Congo (DRC),5
+Uzbekistan,Finland,67
+Singapore,Vatican City,266
+France,Ukraine,33
+South Africa,Yemen,5
+Vatican City,Serbia and Montenegro,31
+Serbia and Montenegro,Vatican City,148
+Finland,Zambia,112
+Zambia,Palestinian territories,31
+Ukraine,Estonia,172
+Estonia,"Korea, North",52
+Indonesia,Georgia,8
+Georgia,Zambia,7
+Vietnam,Ukraine,150
+Serbia and Montenegro,Finland,17
+Estonia,Denmark,31
+Indonesia,Switzerland,216
+Zambia,Vietnam,139
+Vietnam,Estonia,104
+Vietnam,Vatican City,431
+Finland,Vietnam,11
+Vietnam,Slovakia,10
+Slovakia,Estonia,12
+Vatican City,Georgia,105
+Switzerland,Indonesia,236
+Indonesia,"Korea, North",86
+Indonesia,Finland,31
+Vatican City,"Korea, North",40
+Vatican City,Switzerland,421
+Vatican City,Vietnam,163
+Vietnam,Switzerland,130
+Uzbekistan,Indonesia,51
+Switzerland,Georgia,123
+Vietnam,Vatican City,104
+Finland,Vatican City,50
+Vatican City,Indonesia,110
+Estonia,Vietnam,116
+Estonia,Indonesia,73
+Indonesia,Palestinian territories,22
+Vietnam,Yemen,13
+Yemen,Estonia,30
+Vietnam,Uzbekistan,198
+Uzbekistan,Vatican City,186
+Indonesia,Estonia,95
+Serbia and Montenegro,Ukraine,64
+Zambia,Slovakia,217
+Slovakia,Vietnam,97
+Vietnam,Vietnam,42
+Vietnam,Uzbekistan,30
+Georgia,Ukraine,14
+Ukraine,"Korea, North",30
+"Korea, North",Finland,12
+Switzerland,Finland,105
+Ukraine,Vatican City,80
+Congo (DRC),Zambia,8
+Vietnam,Vietnam,19
+Indonesia,Singapore,11
+Ukraine,India,14
+Vatican City,France,21
+Yemen,Vietnam,30
+Estonia,Vatican City,295
+Zambia,Georgia,18
+Georgia,Vietnam,9
+Vietnam,Finland,90
+Spain,"Korea, North",7
+Georgia,Switzerland,59
+Vietnam,India,6
+Trinidad and Tobago,Palestinian territories,6
+Palestinian territories,Vatican City,33
+Vatican City,India,16
+Uzbekistan,Ukraine,147
+Ukraine,South Africa,7
+Serbia and Montenegro,Indonesia,11
+Estonia,Slovakia,11
+Indonesia,Vietnam,156
+Croatia,Finland,9
+Zambia,Vatican City,514
+Vatican City,Ukraine,74
+Finland,Slovakia,16
+Slovakia,Uzbekistan,68
+Uzbekistan,Uzbekistan,9
+France,Indonesia,8
+Vietnam,Finland,41
+Finland,Georgia,6
+Finland,Uzbekistan,73
+Ukraine,Georgia,29
+Georgia,Vatican City,27
+Zambia,Ukraine,142
+Uzbekistan,Vietnam,233
+Finland,India,7
+"Korea, North",Yemen,41
+Vatican City,Switzerland,269
+Indonesia,India,8
+Palestinian territories,Spain,5
+Spain,"Korea, North",9
+India,Vietnam,24
+Ukraine,Yemen,47
+Vietnam,Singapore,22
+Estonia,Vatican City,8
+India,Switzerland,5
+Switzerland,Vietnam,183
+Vietnam,India,17
+Slovakia,Yemen,21
+Switzerland,Palestinian territories,50
+Switzerland,Malta,6
+Yemen,Vatican City,47
+Slovakia,Ukraine,118
+Vietnam,Indonesia,10
+"Korea, North",India,8
+Singapore,Switzerland,76
+Switzerland,"Korea, North",63
+Uzbekistan,Vietnam,38
+Vatican City,Yemen,70
+Switzerland,Singapore,104
+Slovakia,Switzerland,127
+Slovakia,Zambia,365
+Ukraine,Switzerland,61
+Palestinian territories,Vietnam,22
+"Korea, North",Georgia,10
+Georgia,South Africa,15
+Georgia,India,23
+Vietnam,Singapore,88
+Singapore,Vietnam,73
+Vietnam,Zambia,19
+Serbia and Montenegro,Zambia,38
+Vatican City,Croatia,17
+Croatia,Uzbekistan,22
+India,Vatican City,31
+India,Palestinian territories,11
+"Korea, North",Vietnam,20
+Vietnam,Vatican City,36
+India,Vietnam,43
+Serbia and Montenegro,"Korea, North",16
+Slovakia,Vatican City,71
+Indonesia,Vatican City,95
+Vietnam,Croatia,30
+Slovakia,Slovakia,13
+Slovakia,Vietnam,188
+Nepal,India,10
+India,Singapore,13
+Zambia,Trinidad and Tobago,16
+India,Vatican City,18
+Estonia,Nepal,5
+Singapore,India,7
+Vietnam,Malta,8
+Vatican City,Finland,53
+France,Uzbekistan,27
+India,Switzerland,5
+Uzbekistan,India,18
+Singapore,Indonesia,14
+Uzbekistan,Georgia,42
+Vietnam,Yemen,57
+Vietnam,Yemen,84
+Yemen,Finland,26
+India,Georgia,48
+Georgia,Palestinian territories,5
+Georgia,Finland,15
+Vatican City,Palestinian territories,18
+Denmark,Yemen,12
+"Korea, North",United Kingdom,9
+Iceland,Finland,6
+Finland,Vietnam,70
+South Africa,Vietnam,9
+Slovakia,India,10
+Singapore,Yemen,15
+"Korea, North",Switzerland,25
+Uzbekistan,Uganda,8
+Slovakia,Croatia,23
+Vietnam,United Kingdom,28
+Uzbekistan,Switzerland,374
+Uzbekistan,Georgia,21
+Switzerland,Denmark,41
+Switzerland,Yemen,111
+Uganda,Estonia,23
+Indonesia,Vatican City,17
+United Kingdom,Estonia,11
+Ukraine,Denmark,7
+Vietnam,Palestinian territories,5
+Trinidad and Tobago,Vatican City,22
+Estonia,India,9
+India,Mauritius,13
+Mauritius,Vietnam,14
+Vietnam,India,11
+Spain,Vietnam,23
+United Kingdom,Vatican City,8
+Zambia,India,6
+Vietnam,Croatia,15
+Estonia,Slovakia,39
+United Kingdom,Uzbekistan,16
+Vietnam,Indonesia,150
+Vietnam,South Africa,16
+Yemen,Slovakia,17
+United Kingdom,Yemen,6
+Slovakia,Indonesia,19
+Vatican City,Slovakia,87
+Uzbekistan,Estonia,208
+Estonia,India,5
+Vatican City,Uzbekistan,122
+Yemen,Indonesia,15
+Zambia,Slovakia,120
+Vietnam,Slovakia,194
+Switzerland,Vatican City,66
+Vatican City,South Africa,11
+Vietnam,Slovakia,72
+Singapore,Palestinian territories,15
+Congo (DRC),Switzerland,12
+Vietnam,Spain,7
+Zambia,"Turkey: Turkish, Kurdish",53
+Switzerland,Uganda,77
+Trinidad and Tobago,Switzerland,10
+Malta,Spain,9
+Mauritius,Georgia,8
+Georgia,Vietnam,12
+Vietnam,Georgia,24
+Singapore,Czech Republic,13
+Georgia,Georgia,9
+Mauritius,Vietnam,7
+Czech Republic,India,5
+Ukraine,Singapore,31
+Zambia,Yemen,134
+Yemen,Switzerland,58
+Georgia,Vietnam,17
+Estonia,India,15
+India,Finland,14
+Georgia,Zambia,6
+Serbia and Montenegro,India,7
+India,Vietnam,11
+Vietnam,Denmark,49
+Vatican City,Singapore,11
+Uganda,Vietnam,53
+"Korea, North",Uzbekistan,44
+Ukraine,Vietnam,106
+Uzbekistan,Slovakia,45
+Slovakia,Georgia,10
+Georgia,Vietnam,28
+Uganda,Uzbekistan,90
+Ukraine,Mauritius,6
+Slovakia,Estonia,77
+Vatican City,Singapore,137
+"Korea, North",India,6
+Ukraine,Slovakia,33
+Spain,Vietnam,9
+Palestinian territories,Switzerland,20
+Yemen,Uzbekistan,38
+Palestinian territories,Zambia,26
+Vietnam,Iceland,7
+India,Ukraine,53
+Slovakia,Vietnam,5
+Denmark,Vatican City,24
+Serbia and Montenegro,Trinidad and Tobago,5
+Serbia and Montenegro,Croatia,35
+Croatia,Zambia,43
+Serbia and Montenegro,Denmark,8
+Vietnam,"Korea, North",9
+"Korea, North",France,7
+Georgia,Mauritius,8
+France,Switzerland,23
+Spain,Ukraine,8
+"Korea, North",Vatican City,43
+Finland,Yemen,16
+Estonia,Trinidad and Tobago,5
+Trinidad and Tobago,Spain,10
+Vietnam,Malta,6
+Singapore,Uzbekistan,6
+Zambia,Mauritius,14
+Zambia,Georgia,14
+Vatican City,France,11
+South Africa,France,8
+Croatia,Vatican City,27
+Uzbekistan,Denmark,27
+Estonia,Palestinian territories,23
+Vatican City,Zambia,8
+Palestinian territories,Estonia,26
+Vatican City,Estonia,18
+Iceland,Denmark,9
+India,Vietnam,7
+Slovakia,Switzerland,74
+Yemen,Vatican City,48
+India,Estonia,6
+Indonesia,Yemen,37
+Vatican City,Vietnam,21
+France,Vietnam,11
+Yemen,Palestinian territories,13
+Estonia,Singapore,43
+Denmark,Zambia,28
+Palestinian territories,Vietnam,21
+Switzerland,Iceland,8
+India,Indonesia,9
+Indonesia,Ukraine,38
+Ukraine,France,16
+France,Vietnam,25
+Vietnam,Vatican City,7
+"Korea, North",France,54
+Uzbekistan,France,30
+Denmark,Estonia,32
+South Africa,Vietnam,18
+Vietnam,Palestinian territories,23
+Uzbekistan,Nepal,9
+"Korea, North",Denmark,11
+Denmark,France,9
+Singapore,Estonia,32
+Vatican City,Denmark,19
+Spain,Trinidad and Tobago,6
+Uzbekistan,Yemen,48
+Denmark,Vietnam,22
+Georgia,France,15
+Denmark,Switzerland,28
+Denmark,Uzbekistan,18
+France,Estonia,53
+Trinidad and Tobago,India,7
+Vietnam,Palestinian territories,31
+Denmark,Finland,14
+Slovakia,Finland,30
+Finland,Serbia and Montenegro,11
+Switzerland,Vietnam,23
+Vietnam,India,9
+Croatia,Switzerland,29
+Vatican City,Vatican City,11
+Switzerland,Slovakia,46
+Serbia and Montenegro,Slovakia,21
+Vietnam,France,76
+Zambia,Serbia and Montenegro,44
+Slovakia,Zambia,35
+France,Vatican City,8
+Spain,Indonesia,9
+Indonesia,France,5
+Switzerland,Croatia,32
+Palestinian territories,India,6
+Slovakia,Palestinian territories,5
+France,Singapore,12
+Vietnam,Serbia and Montenegro,32
+Estonia,Ecuador,9
+Ecuador,Switzerland,22
+Switzerland,Ecuador,27
+Ecuador,Zambia,9
+Uzbekistan,Spain,16
+Spain,Vatican City,9
+Vietnam,Switzerland,10
+France,Vietnam,5
+Serbia and Montenegro,Spain,8
+Zambia,Spain,12
+Estonia,Spain,38
+Slovakia,Vietnam,11
+France,Denmark,31
+Spain,Malta,7
+Uzbekistan,Trinidad and Tobago,10
+Indonesia,Slovakia,17
+Vietnam,Spain,17
+Spain,Switzerland,24
+Uzbekistan,Croatia,16
+Denmark,Ukraine,18
+Uzbekistan,Palestinian territories,27
+Palestinian territories,"Korea, North",5
+Yemen,Zambia,30
+France,Zambia,101
+Switzerland,United Kingdom,104
+Zambia,Denmark,37
+Denmark,Indonesia,8
+France,"Korea, North",28
+Croatia,Ukraine,10
+Vatican City,Ukraine,5
+Vatican City,Slovakia,11
+Finland,Uganda,8
+Vietnam,Denmark,19
+Georgia,Vietnam,5
+Indonesia,United Kingdom,7
+Slovakia,Vatican City,24
+Slovakia,Finland,8
+Ecuador,Estonia,5
+Indonesia,France,11
+Slovakia,"Korea, North",19
+Zambia,Ecuador,18
+South Africa,Estonia,5
+Zambia,India,13
+Yemen,Georgia,16
+Finland,United Kingdom,7
+United Kingdom,Vatican City,15
+France,Singapore,92
+Uzbekistan,South Africa,5
+France,Vatican City,70
+Switzerland,France,25
+Vietnam,France,25
+Vatican City,France,35
+Switzerland,Spain,30
+Spain,Vietnam,14
+Vatican City,France,5
+Slovakia,Uzbekistan,18
+Yemen,Malta,5
+Vietnam,Trinidad and Tobago,8
+Slovakia,Serbia and Montenegro,17
+Croatia,Slovakia,11
+Serbia and Montenegro,Switzerland,32
+Slovakia,Indonesia,7
+Ukraine,Indonesia,27
+United Kingdom,Switzerland,29
+France,Vatican City,9
+Yemen,Spain,5
+Spain,Uzbekistan,20
+Uzbekistan,India,34
+Spain,Vietnam,14
+Ukraine,Slovakia,10
+Yemen,Vietnam,29
+France,Finland,6
+Spain,United Kingdom,25
+"Korea, North",Palestinian territories,5
+Vietnam,South Africa,5
+Vatican City,Spain,14
+Spain,Finland,5
+Finland,France,7
+Vatican City,Finland,12
+France,South Africa,8
+Indonesia,Spain,9
+Uzbekistan,France,5
+Switzerland,France,14
+Zambia,United Kingdom,28
+Indonesia,Denmark,6
+Croatia,"Korea, North",13
+Uzbekistan,"Korea, North",56
+France,"Korea, North",5
+Finland,"Korea, North",23
+Estonia,United Kingdom,16
+Finland,Denmark,18
+France,France,13
+Slovakia,Croatia,8
+Finland,Indonesia,17
+Finland,Vatican City,8
+Ukraine,Croatia,9
+Indonesia,Vietnam,16
+France,Denmark,5
+Vatican City,Vietnam,25
+Vietnam,Spain,7
+Vietnam,India,21
+Zambia,"Korea, North",47
+Zambia,South Africa,30
+France,France,5
+Vatican City,India,21
+Denmark,Slovakia,12
+Switzerland,"Turkey: Turkish, Kurdish",7
+India,Estonia,16
+"Korea, North",Spain,13
+Switzerland,South Africa,41
+South Africa,Zambia,13
+South Africa,Uzbekistan,13
+South Africa,Switzerland,13
+Zambia,Croatia,39
+Croatia,Serbia and Montenegro,19
+Finland,Palestinian territories,6
+Estonia,Croatia,11
+"Korea, North",Vietnam,35
+Switzerland,India,32
+Vietnam,India,48
+Uzbekistan,Spain,8
+Estonia,Nigeria,5
+Finland,India,8
+Croatia,Slovakia,11
+Spain,Ukraine,13
+India,Georgia,7
+India,Zambia,8
+Georgia,Estonia,9
+Uganda,Singapore,6
+Vatican City,Slovakia,19
+Estonia,South Africa,8
+Switzerland,India,9
+Croatia,Vietnam,16
+Serbia and Montenegro,India,17
+Uzbekistan,India,37
+India,Vatican City,5
+France,Vietnam,6
+Vietnam,Vietnam,13
+Yemen,Iceland,5
+Singapore,Georgia,10
+Singapore,Georgia,14
+Palestinian territories,Slovakia,9
+"Turkey: Turkish, Kurdish",Uganda,10
+Slovakia,Yemen,6
+"Korea, North",Serbia and Montenegro,26
+Vatican City,Malta,9
+Palestinian territories,Georgia,6
+Croatia,Denmark,7
+Georgia,"Korea, North",6
+Slovakia,India,10
+Czech Republic,Vietnam,5
+Vietnam,Ukraine,10
+Finland,Vietnam,43
+Palestinian territories,Ukraine,19
+India,Yemen,21
+Spain,Estonia,17
+Ukraine,Georgia,8
+India,Ukraine,21
+Spain,Slovakia,6
+Estonia,Georgia,9
+India,Palestinian territories,8
+Uzbekistan,Iceland,6
+Uganda,Vietnam,8
+"Turkey: Turkish, Kurdish",Switzerland,37
+Singapore,Ukraine,24
+Vietnam,Uganda,16
+"Turkey: Turkish, Kurdish",Vietnam,7
+Singapore,Zambia,126
+Uganda,Switzerland,27
+Georgia,Yemen,13
+"Turkey: Turkish, Kurdish",Zambia,5
+Singapore,India,31
+Vietnam,"Turkey: Turkish, Kurdish",6
+France,India,6
+Vietnam,Slovakia,7
+France,Spain,16
+Georgia,Uzbekistan,12
+Vietnam,Vietnam,16
+Yemen,"Korea, North",25
+Slovakia,Serbia and Montenegro,32
+Vatican City,Mauritius,7
+Uzbekistan,Slovakia,15
+Zambia,Spain,11
+Singapore,Slovakia,15
+Slovakia,Spain,7
+Spain,Croatia,5
+Zambia,Uzbekistan,48
+Serbia and Montenegro,Palestinian territories,13
+India,Uzbekistan,9
+Vatican City,Indonesia,11
+Georgia,India,6
+Singapore,Vatican City,12
+Vatican City,Trinidad and Tobago,11
+Uzbekistan,Mauritius,8
+Singapore,Finland,9
+Switzerland,Trinidad and Tobago,10
+Yemen,Singapore,16
+Estonia,Spain,6
+Spain,Singapore,5
+Singapore,Spain,7
+Yemen,France,11
+Ukraine,Spain,7
+Spain,Denmark,5
+Ukraine,Trinidad and Tobago,14
+Switzerland,India,8
+Vatican City,Uzbekistan,8
+Yemen,Serbia and Montenegro,6
+Ecuador,Malta,6
+Vatican City,Vietnam,18
+Singapore,Spain,18
+Yemen,Denmark,15
+Zambia,Vatican City,16
+Uzbekistan,Vatican City,10
+Palestinian territories,India,14
+Singapore,France,18
+Palestinian territories,Indonesia,15
+Zambia,India,5
+India,Uzbekistan,14
+India,Yemen,5
+France,Yemen,9
+Spain,France,11
+Uganda,India,7
+France,Zambia,16
+Serbia and Montenegro,Slovakia,11
+Vietnam,Slovakia,11
+Denmark,"Korea, North",10
+Vatican City,Uganda,7
+United Kingdom,Palestinian territories,5
+Palestinian territories,Finland,8
+India,India,9
+Mauritius,Uzbekistan,6
+Uzbekistan,Yemen,16
+Georgia,Estonia,11
+Vietnam,Georgia,15
+South Africa,Serbia and Montenegro,5
+Palestinian territories,Singapore,7
+Georgia,Georgia,23
+Croatia,Vietnam,24
+Switzerland,Spain,5
+Trinidad and Tobago,Estonia,7
+Zambia,Malta,6
+Georgia,India,5
+Denmark,India,5
+"Korea, North",Zambia,40
+Denmark,Spain,5
+Mauritius,Indonesia,16
+Ukraine,Vatican City,5
+United Kingdom,Vietnam,14
+India,"Korea, North",6
+Palestinian territories,Yemen,19
+Spain,Yemen,7
+Vietnam,Georgia,11
+Slovakia,Ukraine,10
+France,Switzerland,6
+Croatia,Palestinian territories,5
+Denmark,India,5
+Ukraine,India,14
+India,France,12
+Vietnam,Uganda,5
+India,Vietnam,11
+Spain,France,8
+India,Switzerland,9
+Spain,Iceland,5
+Serbia and Montenegro,Vatican City,8
+Georgia,Spain,11
+France,Slovakia,5
+France,Yemen,7
+Indonesia,Croatia,9
+Croatia,"Korea, North",20
+Palestinian territories,Uzbekistan,17
+Trinidad and Tobago,France,7
+Vietnam,Croatia,5
+Estonia,Uganda,9
+Slovakia,United Kingdom,5
+France,Georgia,5
+Georgia,India,6
+Croatia,Estonia,13
+Spain,Yemen,10
+Vatican City,United Kingdom,7
+France,Vatican City,14
+Vietnam,Spain,5
+Finland,Spain,6
+Serbia and Montenegro,South Africa,5
+Nigeria,India,9
+Indonesia,Malta,6
+Singapore,France,51
+Estonia,Georgia,6
+France,Uzbekistan,5
+"Korea, North",Slovakia,11
+India,Georgia,5
+United Kingdom,Vietnam,9
+Malta,Vietnam,5
+Vatican City,Slovakia,5
+Finland,Georgia,11
+Singapore,"Korea, North",8
+Nigeria,Georgia,6
+Indonesia,Serbia and Montenegro,7
+France,Spain,5
+Denmark,Vietnam,5
+Vietnam,Trinidad and Tobago,8
+"Korea, North",Croatia,10
+Croatia,Vietnam,8
+Switzerland,Croatia,9
+Vietnam,United Kingdom,6
+Uganda,Ukraine,6
+Vietnam,Nigeria,7
+South Africa,Singapore,5
+Denmark,Palestinian territories,5
+Spain,Zambia,20
+Vatican City,Georgia,13
+Uzbekistan,United Kingdom,15
+Mauritius,Croatia,6
+Ukraine,Vietnam,21
+Spain,Georgia,5
+Ukraine,Spain,5
+Vietnam,Finland,5
+India,India,7
+Finland,Croatia,6
+Croatia,Georgia,5
+Mauritius,Georgia,9
+Switzerland,Georgia,12
+Croatia,Vietnam,5
+Slovakia,France,9
+Georgia,Ukraine,9
+United Kingdom,"Korea, North",6
+Yemen,Mauritius,6
+Indonesia,Uzbekistan,5
+Georgia,Malta,5
+Nigeria,Ukraine,5
+Georgia,India,7
+France,Croatia,5
+Palestinian territories,Serbia and Montenegro,7
+Vatican City,Iceland,5
+Switzerland,Uzbekistan,13
+Iceland,Mauritius,5
+Denmark,Serbia and Montenegro,6
+Slovakia,India,5
+Malta,Yemen,5
+Spain,Slovakia,6
+Eritrea,Ecuador,5
+Vatican City,Vatican City,9
+Uzbekistan,Malta,5
+India,Indonesia,5
+Vietnam,Mauritius,7
+India,Spain,6
+Estonia,Mauritius,5
+Singapore,Trinidad and Tobago,5
+South Africa,Nigeria,7
+Nigeria,Yemen,8
+Vietnam,Georgia,6
+Ukraine,Uzbekistan,5
+Vietnam,Uzbekistan,7
+Slovakia,Iceland,7
+Iceland,Switzerland,7
+Zambia,Iceland,8
+Iceland,Zambia,6
+Nepal,Vietnam,6
+Vatican City,India,5
+Finland,Slovakia,8
+"Korea, North",Croatia,7
+Uganda,Slovakia,5
+Georgia,Singapore,8
+Spain,Serbia and Montenegro,5
+Iceland,United Kingdom,5
+Mauritius,Yemen,7
+India,Slovakia,5
+Zambia,Croatia,7
+Uzbekistan,Indonesia,6
+India,Georgia,6
+Yemen,India,5
+Palestinian territories,Vietnam,7
+Estonia,Iceland,6
+Switzerland,Mauritius,6
+Indonesia,Rwanda,14
+Rwanda,Estonia,31
+Vatican City,Rwanda,6
+Slovakia,Uzbekistan,5
+Serbia and Montenegro,Vietnam,11
