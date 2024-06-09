@@ -1,0 +1,358 @@
+Country,Language_Name
+Algeria,ar
+Algeria,fr
+Andorra,fr
+Andorra,po
+Angola,po
+Antigua and Barbuda,en
+Argentina,en
+Argentina,it
+Argentina,de
+Argentina,fr
+Armenia,hy
+Armenia,ru
+Australia,en
+Austria,de
+Austria,hr
+Austria,hu
+Azerbaijan,ru
+Azerbaijan,hy
+Bahamas,en
+Bahrain,ar
+Bahrain,en
+Bahrain,ur
+Bangladesh,en
+Barbados,en
+Belarus,ru
+Belize,en
+Benin,fr
+Benin,yo
+Bhutan,dz
+Bolivia,qu
+Bolivia,ay
+Bosnia and Herzegovina,bo
+Bosnia and Herzegovina,hr
+Botswana,en
+Brazil,po
+Brazil,en
+Brazil,fr
+Brunei Darussalam,ms
+Brunei Darussalam,en
+Brunei Darussalam,zh
+Burkina Faso,fr
+Burundi,fr
+Burundi,sw
+Cambodia,fr
+Cambodia,en
+Cameroon,fr
+Canada,en
+Cape Verde,po
+Central African Republic,fr
+Central African Republic,ar
+Central African Republic,sw
+Chad,fr
+Chad,ar
+"Congo, Republic of",fr
+"Congo, Republic of",li
+Congo (DRC),fr
+Congo (DRC),li
+Costa Rica,en
+Côte d’Ivoire,fr
+Croatia,bo
+Croatia,hr
+Croatia,it
+Croatia,hu
+Croatia,ce
+Croatia,sl
+Croatia,de
+Cyprus,tu
+Cyprus,en
+Czech Republic,ce
+Denmark,da
+Djibouti,fr
+Djibouti,ar
+Djibouti,so
+East Timor,po
+East Timor,en
+Ecuador,qu
+Egypt,ar
+Egypt,en
+Egypt,fr
+Equatorial Guinea,fr
+Eritrea,aa
+Eritrea,ar
+Eritrea,ti
+Estonia,es
+Estonia,ru
+Estonia,uk
+Estonia,fi
+Ethiopia,am
+Ethiopia,so
+Fiji,en
+Fiji,fi
+Finland,fi
+Finland,sw
+Finland,ru
+France,br
+France,eu
+Gabon,fr
+Gabon,wo
+Georgia,ka
+Georgia,ru
+Georgia,hy
+Georgia,az
+Germany,de
+Ghana,en
+Ghana,tw
+Ghana,ew
+Greece,en
+Greece,fr
+Grenada,en
+Guinea,fr
+Guinea-Bissau,po
+Guyana,en
+Guyana,hi
+Guyana,ur
+Haiti,fr
+Honduras,en
+Iceland,is
+Iceland,en
+Iceland,de
+India,hi
+India,en
+India,be
+India,gu
+India,ka
+India,ma
+India,ma
+India,or
+India,ta
+India,te
+India,ur
+India,sa
+India,sn
+Indonesia,en
+Indonesia,ja
+Iran,ku
+Iran,ar
+Iraq,ar
+Iraq,ku
+Ireland,en
+Israel,he
+Israel,ar
+Israel,en
+Israel,ru
+Italy,it
+Italy,de
+Italy,fr
+Iran,ku
+Iran,ar
+Iraq,ar
+Iraq,ku
+Ireland,en
+Israel,he
+Israel,ar
+Israel,en
+Israel,ru
+Italy,it
+Italy,de
+Italy,fr
+Iran,ku
+Iran,ar
+Jamaica,en
+Japan,jp
+Jordan,ar
+Jordan,en
+Kazakhstan,ru
+Kenya,en
+Kenya,sw
+Kiribati,en
+"Korea, North",ko
+"Korea, North",en
+Kyrgyzstan,ru
+Laos,la
+Laos,fr
+Laos,en
+Latvia,la
+Latvia,ru
+Lebanon,ar
+Lebanon,fr
+Lebanon,en
+Lesotho,en
+Lesotho,zu
+Lesotho,xh
+Liberia,en
+Libya,ar
+Libya,it
+Libya,en
+Liechtenstein,de
+Luxembourg,fr
+Luxembourg,de
+Madagascar,ml
+Madagascar,fr
+Malawi,en
+Malaysia,ms
+Malaysia,zh
+Malaysia,ta
+Malaysia,en
+Maldives,ar
+Maldives,hi
+Maldives,en
+Mali,fr
+Malta,ml
+Malta,en
+Marshall Islands,ma
+Marshall Islands,en
+Mauritania,ar
+Mauritania,wo
+Mauritania,fr
+Mauritius,en
+Mauritius,fr
+Mauritius,hi
+Mauritius,ur
+"Liberia: English, tribal
+dialects",en
+"Libya: Arabic, Italian, English",ar
+"Libya: Arabic, Italian, English",it
+"Libya: Arabic, Italian, English",en
+Liechtenstein,de
+Micronesia,en
+Moldova,ru
+Monaco,fr
+Monaco,en
+Monaco,it
+Mongolia,mo
+Mongolia,ru
+Mongolia,zh
+Morocco,ar
+Morocco,fr
+Mozambique,po
+Namibia,af
+Namibia,de
+Namibia,en
+Nauru,en
+Mongolia,mo
+Mongolia,ru
+Mongolia,zh
+Morocco,ar
+Morocco,fr
+Nepal:,ne
+New Zealand,en
+Niger,fr
+Nigeria,en
+Nigeria,ha
+Nigeria,yo
+Oman,ar
+Oman,en
+Pakistan,sn
+Pakistan,en
+Palestinian territories,ar
+Palestinian territories,he
+Palestinian territories,en
+Palestinian territories,fr
+"Spanish, English",en
+Papua New Guinea:,en
+Nepal,ne
+New Zealand,en
+Niger,fr
+Nigeria,en
+Nigeria,ha
+Nigeria,yo
+Peru,ay
+The Philippines,en
+Poland,po
+Portugal,po
+Qatar,ar
+Qatar,en
+Romania,hu
+Romania,de
+Russia,ru
+Rwanda,ki
+Rwanda,fr
+Rwanda,en
+Peru,ay
+The Philippines,en
+Poland,po
+St. Kitts and Nevis,en
+St. Lucia,en
+St. Vincent/the Grenadines:,en
+Samoa,sm
+Samoa,en
+San Marino,it
+São Tomé and Príncipe:,po
+Saudi Arabia,ar
+Senegal,fr
+Senegal,wo
+Serbia and Montenegro,sr
+Seychelles,en
+Seychelles,fr
+Sierra Leone,en
+Singapore,ms
+Singapore,ta
+Singapore,en
+Slovakia,sl
+Slovakia,hu
+Solomon Islands,en
+Somalia,so
+Somalia,ar
+Somalia,en
+Somalia,it
+South Africa,xh
+South Africa,zu
+South Africa,en
+South Africa,af
+South Africa,ss
+South Sudan,en
+South Sudan,ar
+Spain,gl
+Spain,ta
+Spain,en
+Sudan,ar
+Sudan,en
+Swaziland,en
+Sweden,sw
+Switzerland,de
+Switzerland,fr
+Switzerland,it
+Syria,ar
+Syria,ku
+Tajikistan,tg
+Tajikistan,ru
+Tajikistan,uz
+Tanzania,sw
+Tanzania,en
+Thailand,zh
+Thailand,en
+Togo,fr
+Tonga,en
+Trinidad and Tobago,en
+Trinidad and Tobago,hi
+Trinidad and Tobago,fr
+Tunisia,ar
+Tunisia,fr
+"Turkey: Turkish, Kurdish",tu
+"Turkey: Turkish, Kurdish",ku
+Turkmenistan,tu
+Turkmenistan,ru
+Turkmenistan,uz
+Tuvalu,en
+Uganda,en
+Uganda,sw
+Ukraine,uk
+United Arab Emirates,ar
+United Kingdom,en
+United Kingdom,cy
+United States,en
+Uzbekistan,uz
+Uzbekistan,ru
+Uzbekistan,tg
+Vanuatu,en
+Vanuatu,fr
+Vatican City,la
+Vatican City,it
+Vietnam,vi
+Vietnam,fr
+Vietnam,en
+Vietnam,zh
+Yemen,ar
+Zambia,en
