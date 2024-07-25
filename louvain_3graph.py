@@ -5,7 +5,7 @@ import random
 import community as community_louvain
 
 file_path = 'country_geographical_distances.csv'
-data = pd.read_csv(file_path)
+data = pd.read_csv('country_geographical_distances.csv')
 
 weight_graph = nx.Graph()
 for index, row in data.iterrows():
