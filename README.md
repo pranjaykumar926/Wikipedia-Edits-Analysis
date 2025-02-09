@@ -1,6 +1,5 @@
 # 🌍 Wikipedia Edits Analysis 📊
 
-![Project Banner](https://user-images.githubusercontent.com/yourbanner.png)
 
 ## 🚀 Project Overview
 This project explores how **geography** influences Wikipedia edits across different languages. By analyzing edit patterns, we aim to uncover regional and linguistic disparities in digital knowledge representation.
@@ -81,14 +80,6 @@ Run any of the scripts to perform analyses or generate visualizations:
 ```
 
 ---
-
-## 📸 Sample Visualizations
-📌 **Calculation Output:**  
-![Calculation Output](CalculationOutput.png)
-
-📌 **Editing Patterns Analysis:**  
-![Figure 1](Figure_1.png)
-
 ---
 
 ## 📅 Future Enhancements
@@ -107,8 +98,6 @@ We welcome contributions! 🚀
 
 ---
 
-## 📜 License
-🔖 This project is licensed under the MIT License.
 
 ---
 
