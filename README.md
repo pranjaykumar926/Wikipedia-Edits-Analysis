@@ -1,106 +1,145 @@
-# 🌍 Wikipedia Edits Analysis 📊
+# 🌍🚀 Wikipedia Edits Analysis 📊🔥
 
+[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)  
+[![Pandas](https://img.shields.io/badge/Pandas-Dataframe-red)](https://pandas.pydata.org/)  
+[![NumPy](https://img.shields.io/badge/NumPy-ArrayProcessing-green)](https://numpy.org/)  
 
-## 🚀 Project Overview
-This project explores how **geography** influences Wikipedia edits across different languages. By analyzing edit patterns, we aim to uncover regional and linguistic disparities in digital knowledge representation.
-
-🔍 **Key Insights:**
-- Which regions contribute the most edits?
-- How do editing behaviors vary across languages?
-- What biases exist in content creation?
-- How can we visualize these patterns interactively?
+> **Wikipedia Edits Analysis** 🌐💡 is an advanced data-driven project designed to analyze and visualize Wikipedia edit patterns across different languages. It provides insights into the role of geography in online content creation and access. 📈✨
 
 ---
 
-## 🎯 Objectives
-✅ Investigate geographic distribution of Wikipedia edits  
-✅ Compare edit trends across multiple languages  
-✅ Identify biases and gaps in content creation  
-✅ Build interactive visualizations for better insights  
+## 🚀 Table of Contents
+- [🔍 Overview](#overview)
+- [🎯 Features](#features)
+- [📊 Data Sources](#data-sources)
+- [🛠 Technologies Used](#technologies-used)
+- [⚙️ Installation & Setup](#installation--setup)
+- [🚀 Usage](#usage)
+- [📈 Visualizations & Insights](#visualizations--insights)
+- [🔮 Future Enhancements](#future-enhancements)
+- [🤝 Contributing](#contributing)
+- [📜 License](#license)
+- [📬 Contact](#contact)
 
 ---
 
-## 📂 Dataset
-📌 **Source:** Wikipedia Edit History API, Wikimedia dumps  
-📊 **Data Includes:**
-- 🌍 Editor locations (where available)
-- 🕒 Edit timestamps
-- 🔠 Language editions
-- 📚 Article categories
+## 🔍 Overview
+
+Wikipedia is one of the most edited online resources, with users contributing across different regions and languages. This project explores:
+- 🌎 **Geographical distribution of Wikipedia edits**
+- 📆 **Time-based edit patterns**
+- 🗣️ **Language-wise edit analysis**
+- 📊 **Interactive visualizations for better understanding**
 
 ---
 
-## 🛠️ Tech Stack
-🔹 **Programming:** Python 🐍  
-🔹 **Data Analysis:** Pandas, NumPy 📊  
-🔹 **Visualization:** Matplotlib, Seaborn, Plotly 📉  
-🔹 **Geospatial Analysis:** GeoPandas, Folium 🌎  
-🔹 **API & Scraping:** Wikipedia API, BeautifulSoup 🌐  
+## 🎯 Features
+
+- 📌 **Analyze Wikipedia edits across different languages**
+- 🗺️ **Geospatial visualization of edit patterns**
+- 📅 **Time series analysis of Wikipedia edit trends**
+- 📊 **Interactive charts and graphs for insights**
+- 🔥 **Data pre-processing and transformation for efficient analysis**
 
 ---
 
-## 📌 Repository Structure
-📂 **Data**  
-- `Country_Language_List.csv` - Country-to-language mapping
-- `Distance_metric.csv` - Computed distances between countries
-- `filtered_dataset.csv` - Cleaned and preprocessed dataset
+## 📊 Data Sources
 
-📜 **Scripts**  
-- `Country_graph.py` - Generates graphs by country
-- `Distance_metrics.py` - Computes country distances
-- `Finalgraph_cal.py` - Final graph calculations
-- `graph_similarity_metrics.py` - Graph similarity analysis
-
-🖼️ **Visuals**  
-- `Figure_1.png` to `Figure_6.png` - Data visualization snapshots
-- `CalculationOutput.png` - Processed analysis results
-
-📽️ **Presentation**  
-- `Presentation 1-1.pptx` - Summary of project insights
+This project leverages:
+- 🌐 Wikipedia’s public API for retrieving edit histories
+- 📂 Open datasets on global Wikipedia contributions
+- 🏆 Python libraries for processing and analyzing edits
 
 ---
 
-## 🚀 Getting Started
-### 1️⃣ Clone the Repository
-```sh
- git clone https://github.com/pranjaykumar926/SummerProject.git
- cd SummerProject
-```
+## 🛠 Technologies Used
 
-### 2️⃣ Install Dependencies
-Ensure you have Python installed, then run:
-```sh
- pip install pandas numpy matplotlib seaborn plotly geopandas folium
-```
-
-### 3️⃣ Run Analysis Scripts
-Run any of the scripts to perform analyses or generate visualizations:
-```sh
- python Country_graph.py
-```
-
----
----
-
-## 📅 Future Enhancements
-🌟 Expand dataset to more language editions  
-🤖 Implement machine learning for edit pattern prediction  
-📊 Develop an interactive web-based dashboard  
+- 🐍 **Python** - Core programming language
+- 🗃 **Pandas & NumPy** - Data processing and analysis
+- 📈 **Matplotlib & Seaborn** - Data visualization
+- 🌍 **Geopandas & Folium** - Mapping and spatial analysis
+- 🔗 **Wikipedia API** - Extracting edit history
 
 ---
 
-## 🤝 Contributions
-We welcome contributions! 🚀
-1. **Fork the repository**
-2. **Create a new branch** (`feature-branch`)
-3. **Make your changes** and commit
-4. **Submit a pull request**
+## ⚙️ Installation & Setup
+
+Follow these steps to set up the project:
+
+1. **📥 Clone the Repository:**
+   ```bash
+   git clone https://github.com/pranjaykumar926/Wikipedia-Edits-Analysis.git
+   cd Wikipedia-Edits-Analysis
+   ```
+
+2. **📦 Create a Virtual Environment (Optional but Recommended):**
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   ```
+
+3. **⚡ Install Dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ---
 
+## 🚀 Usage
+
+1. **▶️ Run the Analysis Script:**
+   ```bash
+   python analyze_edits.py
+   ```
+
+2. **📊 View Visualizations:**
+   The generated charts and graphs will be saved in the `output/` directory.
 
 ---
 
-🐙 **GitHub:** [pranjaykumar926](https://github.com/pranjaykumar926)  
+## 📈 Visualizations & Insights
 
-🚀 _Happy Coding & Analyzing!_ 🎯
+Check out some interactive insights:
+
+🌎 **Geographical Distribution of Edits**
+🕒 **Time-Based Trends in Wikipedia Edits**
+📊 **Most Edited Wikipedia Pages by Language**
+
+---
+
+## 🔮 Future Enhancements
+
+- 🌟 **Enhanced NLP Processing for Content Analysis**
+- 📡 **Live Dashboard for Real-Time Wikipedia Edits**
+- 📊 **More Interactive and Animated Visualizations**
+- 📌 **Machine Learning-Based Anomaly Detection in Edits**
+
+---
+
+## 🤝 Contributing
+
+💡 Contributions are welcome! To contribute:
+1. Fork the repository
+2. Create a new branch (`feature/your-feature`)
+3. Commit your changes
+4. Open a pull request 🚀
+
+---
+
+## 📜 License
+
+*This project is currently not licensed. Contact the repository owner for permissions.*
+
+---
+
+## 📬 Contact
+
+For inquiries or collaborations, reach out:
+
+- **GitHub:** [pranjaykumar926](https://github.com/pranjaykumar926) 🏗️
+- **📧 Email:** *[pranjaykumar926@gmail.com](mailto:pranjaykumar926@gmail.com)* 📩
+
+---
+
+✨ *Uncovering the hidden trends in Wikipedia edits, one dataset at a time!* 🌍🚀
+
